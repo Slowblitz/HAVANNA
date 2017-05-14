@@ -1,0 +1,77 @@
+les classes commencent tjrs par une MAJUSCULE
+les méthodes commencent tjrs par une minuscule
+
+
+
+les classes:  	Jeu
+				{
+					Plateau plat();
+
+				public:
+
+					nouvellePartie();
+					sauvegarde();
+					chargementPartie();
+
+				}
+
+				Joueur
+				{
+					String nom;
+					String couleur;
+
+				Public:
+
+					
+
+
+				}
+				
+
+				Plateau : taille 
+
+
+				Cases : coordonnees, couleur
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				3a^2-3a+1
